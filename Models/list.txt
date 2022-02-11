@@ -1,0 +1,34 @@
+ Datentr„ger in Laufwerk C: ist C60L11NB0699
+ Volumeseriennummer: 1017-D83F
+
+ Verzeichnis von C:\PersonalData\wamp64\www\WorkerTimeLogWeb\Models
+
+27.02.2020  15:28    <DIR>          .
+27.02.2020  15:28    <DIR>          ..
+27.02.2020  14:29            14.341 AufMasse.php
+27.02.2020  14:30             8.328 AufMasseBild.php
+27.02.2020  14:30             8.462 AufMasseSkizze.php
+27.05.2019  13:05               763 BaseEntity.php
+27.05.2019  13:05            17.971 Customer.php
+27.05.2019  13:05               407 EntityCommon.php
+27.02.2020  14:30            17.910 Erfassung.php
+27.02.2020  07:07            11.677 ErfassungBild.php
+27.02.2020  07:07            19.321 Fertigung.php
+27.02.2020  07:07             9.989 FertigungBild.php
+27.02.2020  15:28                 0 list.txt
+27.05.2019  13:05            11.354 LogActivity.php
+27.02.2020  07:07            17.690 Montage.php
+27.02.2020  07:07            11.517 MontageBild.php
+27.02.2020  07:07            15.282 Nachtraege.php
+27.02.2020  07:07             9.991 NachtraegeBild.php
+27.02.2020  07:07            10.125 NachtraegeSkizze.php
+27.05.2019  13:05            11.032 Order.php
+27.05.2019  13:05            11.941 Project.php
+27.02.2020  07:07            13.228 Rapport.php
+27.05.2019  13:05            14.705 Task.php
+10.06.2019  04:21            15.266 TaskLogTime.php
+27.05.2019  13:05             9.885 TaskPicture.php
+27.05.2019  13:05            19.383 User.php
+27.05.2019  13:05            20.221 UserProfile.php
+              25 Datei(en),        300.789 Bytes
+               2 Verzeichnis(se), 143.201.280.000 Bytes frei

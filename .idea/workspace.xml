@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e494b9b3-3a09-47fe-839a-18d19d22d163" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Zz68sNYSJmKvKkYbwvCMC5NnQg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Controllers" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PersonalData\wamp64\www\WorkerTimeLogWeb\Controllers" />
+      <recent name="C:\PersonalData\wamp64\www\WorkerTimeLogWeb\Scripts" />
+      <recent name="C:\PersonalData\wamp64\www\WorkerTimeLogWeb\Models" />
+      <recent name="C:\PersonalData\wamp64\www\WorkerTimeLogWeb\UIResources" />
+      <recent name="C:\PersonalData\wamp64\www\WorkerTimeLogWeb\Views\Administration" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e494b9b3-3a09-47fe-839a-18d19d22d163" name="Default Changelist" comment="" />
+      <created>1585829418082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585829418082</updated>
+      <workItem from="1585829420095" duration="18198000" />
+      <workItem from="1585906525557" duration="3481000" />
+      <workItem from="1585921129972" duration="22301000" />
+      <workItem from="1586094030907" duration="17134000" />
+      <workItem from="1586141698555" duration="812000" />
+      <workItem from="1589383654765" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585829479760">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="223" y="118" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1536.920/0.0.1536.920@0.0.1536.920" timestamp="1585829479760" />
+    <state x="279" y="95" key="SettingsEditor" timestamp="1585981201796">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="95" key="SettingsEditor/0.0.1536.824/-1920.0.1536.920@0.0.1536.824" timestamp="1585981201796" />
+    <state x="-1443" y="287" key="com.intellij.ide.util.TipDialog" timestamp="1586094120251">
+      <screen x="-1920" y="0" width="1536" height="920" />
+    </state>
+    <state x="-1443" y="287" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-1920.0.1536.920@-1920.0.1536.920" timestamp="1586094120251" />
+    <state x="-1495" y="211" key="run.anything.popup" timestamp="1586102909169">
+      <screen x="-1920" y="0" width="1536" height="920" />
+    </state>
+    <state x="-1495" y="211" key="run.anything.popup/0.0.1536.824/-1920.0.1536.920@-1920.0.1536.920" timestamp="1586102909169" />
+  </component>
+</project>

@@ -1,0 +1,90 @@
+[04.04.2020 14:16:41]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 14:27:31]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getDatailsItemWithRelatedEntities, 
+Post data: {"userAction":"getDatailsItemWithRelatedEntities","auftragId":"2"}
+
+[04.04.2020 14:29:25]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getDatailsItemWithRelatedEntities, 
+Post data: {"userAction":"getDatailsItemWithRelatedEntities","auftragId":"21"}
+
+[04.04.2020 14:30:14]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getDatailsItemWithRelatedEntities, 
+Post data: {"userAction":"getDatailsItemWithRelatedEntities","auftragId":"2"}
+
+[04.04.2020 14:37:28]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllZeichnungByAuftrag, 
+Post data: {"userAction":"getAllZeichnungByAuftrag","auftragId":"2"}
+
+[04.04.2020 14:39:41]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllZeichnungByAuftrag, 
+Post data: {"userAction":"getAllZeichnungByAuftrag","auftragId":"2"}
+
+[04.04.2020 14:39:56]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllZeichnungByAuftrag, 
+Post data: {"userAction":"getAllZeichnungByAuftrag","auftragId":"2"}
+
+[04.04.2020 14:40:47]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 14:46:00]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 14:47:12]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 14:47:47]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 14:49:19]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 14:50:41]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 14:59:35]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 15:25:54]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 15:26:27]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 15:26:43]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 15:38:58]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[04.04.2020 15:38:58]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 15:39:44]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[04.04.2020 15:39:44]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 16:05:33]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[04.04.2020 16:05:33]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[04.04.2020 18:46:59]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getDatailsItemWithRelatedEntities, 
+Post data: {"userAction":"getDatailsItemWithRelatedEntities","auftragId":"2"}
+
+[04.04.2020 18:46:59]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getDatailsItemWithRelatedEntities, 
+Post data: {"userAction":"getDatailsItemWithRelatedEntities","auftragId":"2"}
+
+[04.04.2020 18:47:01]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getDatailsItemWithRelatedEntities, 
+Post data: {"userAction":"getDatailsItemWithRelatedEntities","auftragId":"2"}
+
+[04.04.2020 19:09:19]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getDatailsItemWithRelatedEntities, 
+Post data: {"userAction":"getDatailsItemWithRelatedEntities","auftragId":"2"}
+
+[04.04.2020 19:12:48]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllZeichnungByAuftrag, 
+Post data: {"userAction":"getAllZeichnungByAuftrag","auftragId":"2"}
+
+[04.04.2020 19:15:05]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllZeichnungByAuftrag, 
+Post data: {"userAction":"getAllZeichnungByAuftrag","auftragId":"2"}
+
+[04.04.2020 19:16:40]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllZeichnungByAuftrag, 
+Post data: {"userAction":"getAllZeichnungByAuftrag","auftragId":"2"}
+

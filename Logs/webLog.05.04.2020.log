@@ -1,0 +1,226 @@
+ [05.04.2020 15:47:53]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 15:47:53]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 15:55:16]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: deleteItem, 
+Post data: {"selectedIds":["5","6"],"userAction":"deleteItem"}
+
+[05.04.2020 15:55:23]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 15:55:23]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 15:58:49]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 15:58:49]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 16:05:37]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 16:05:37]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 16:06:05]: requestPath: /WorkerTimeLogWeb/Controllers/UploadFileController.php, Post data: [{"name":"Zeichnung-2.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\php19CC.tmp","error":0,"size":720243}]
+
+[05.04.2020 16:09:46]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 16:09:46]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 16:10:09]: requestPath: /WorkerTimeLogWeb/Controllers/UploadFileController.php, Post data: [{"name":"Zeichnung-2.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\phpD3B8.tmp","error":0,"size":720243}]
+
+[05.04.2020 16:33:08]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 16:33:08]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 16:33:41]: requestPath: /WorkerTimeLogWeb/Controllers/UploadFileController.php, Post data: [{"name":"Zeichnung-2.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\php5EAD.tmp","error":0,"size":720243}]
+
+[05.04.2020 16:33:41]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-2_5e8a0865.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"31212-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:35:25]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 16:35:25]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 16:36:23]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 16:36:23]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 16:36:47]: requestPath: /WorkerTimeLogWeb/Controllers/UploadFileController.php, Post data: [{"name":"Zeichnung-2.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\php3609.tmp","error":0,"size":720243}]
+
+[05.04.2020 16:37:26]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-2.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"11211-0a05acf\",\n\t\"kundenNummer\": \"121-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:39:04]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 16:39:04]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 16:39:30]: requestPath: /WorkerTimeLogWeb/Controllers/UploadFileController.php, Post data: [{"name":"Zeichnung-2.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\phpAEF9.tmp","error":0,"size":720243}]
+
+[05.04.2020 16:39:41]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-2_5e8a09c2.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"asas-0a05acf\",\n\t\"kundenNummer\": \"4545-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:46:24]: requestPath: /WorkerTimeLogWeb/Controllers/UploadFileController.php, Post data: [{"name":"Zeichnung-1.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\php24D.tmp","error":0,"size":1701907}]
+
+[05.04.2020 16:46:50]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:50:58]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:51:00]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:51:02]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:52:11]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:52:47]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:54:07]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:54:51]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:57:01]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:57:38]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:57:57]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 16:58:28]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:00:23]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:00:51]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:00:52]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:00:52]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:01:25]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:05:10]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:05:37]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:05:49]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:06:55]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:07:38]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:07:38]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:07:48]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 17:07:48]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 18:16:08]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 18:16:08]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 18:16:23]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: deleteItem, 
+Post data: {"selectedIds":["7","8","9","10","11"],"userAction":"deleteItem"}
+
+[05.04.2020 18:16:28]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 18:16:28]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 18:17:14]: requestPath: /WorkerTimeLogWeb/Controllers/UploadFileController.php, Post data: [{"name":"Zeichnung-1.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\php2989.tmp","error":0,"size":1701907},{"name":"Zeichnung-2.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\php299A.tmp","error":0,"size":720243}]
+
+[05.04.2020 18:17:14]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-1.pdf","Zeichnung-2.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 18:17:14]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 18:18:54]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 18:18:54]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 20:24:22]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 20:24:22]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 20:41:08]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 20:41:08]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 20:43:51]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"auftragId":"3","formValues":["{\"newFieldValue\":\"Mein anwendung m\u00fc\u00df hier sein mit \u00c4nderungen\",\"fieldName\":\"bezeichnung\",\"entityKeyId\":\"3\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[05.04.2020 20:43:57]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 20:43:57]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 20:44:56]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 20:44:56]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 20:46:21]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 20:46:21]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[05.04.2020 20:47:20]: requestPath: /WorkerTimeLogWeb/Controllers/UploadFileController.php, Post data: [{"name":"Zeichnung-2.pdf","type":"application\/pdf","tmp_name":"C:\\PersonalData\\wamp64\\tmp\\php9756.tmp","error":0,"size":720243}]
+
+[05.04.2020 20:47:20]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addAndAssignZeichnungToAuftrag, 
+Post data: {"fileNamesList":["Zeichnung-2_5e8a43d8.pdf"],"formValues":["{\n\t\"auftragsNummer\": \"a111\",\n\t\"kundenNummer\": \"x111\",\n\t\"bezeichnung\": \"d-cd8389e\",\n\t\"auftragAbgeschlossen\": \"nein\",\n\t\"fileFullName\": \"\",\n\t\"userAction\": \"uploadSchemas\"\n}"],"userAction":"addAndAssignZeichnungToAuftrag"}
+
+[05.04.2020 20:47:22]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllAuftragZeichnung, 
+Post data: {"userAction":"getAllAuftragZeichnung"}
+
+[05.04.2020 20:47:23]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+

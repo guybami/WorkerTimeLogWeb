@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.8</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>18</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>myAfricaHomeSlide</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>carousel_basic</ImageEffect>
+            <ImageFillColor>#8192ff</ImageFillColor>
+            <ImageHeight>600</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>G:/Program Files/WOW Slider/templates/backgnd/stream/</ImageTemplate>
+            <ImageTemplateName>Stream</ImageTemplateName>
+            <ImageWidth>800</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/PersonalData/Projects/Web/MyAfricaeV/Views/Wow/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>D:/PersonalData/Projects/Web/MyAfricaeV/Views/Wow</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>2</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>PT Sans</TemplateFont>
+            <TemplateName>stream</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/Backnang 1.JPG</url>
+                <title>Deutscher Bundestag - Berlin</title>
+                <filesize>3350899</filesize>
+            </Image>
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/Backnang2.JPG</url>
+                <title>Deutscher Bundestag - Berlin</title>
+                <filesize>3575929</filesize>
+            </Image>
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/IMG_2214.JPG</url>
+                <title>Mit dem Meier - Heilbronn</title>
+                <filesize>827983</filesize>
+            </Image>
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/IMG_2220.JPG</url>
+                <title>Heilbronn</title>
+                <filesize>818258</filesize>
+            </Image>
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/IMG_5783.JPG</url>
+                <title>Meeting - Kooperation Kamerun - Deutschland</title>
+                <filesize>3659163</filesize>
+            </Image>
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/IMG_5796.JPG</url>
+                <title>Meeting - Kooperation Kamerun - Deutschland</title>
+                <filesize>3766995</filesize>
+            </Image>
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/IMG_5814.JPG</url>
+                <title>GOP - Kooperation Kamerun - Deutschland</title>
+                <filesize>3573436</filesize>
+            </Image>
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/IMG_5833.JPG</url>
+                <title>Meeting - Kooperation Kamerun - Deutschland</title>
+                <filesize>3521502</filesize>
+            </Image>
+            <Image>
+                <url>D:/PersonalData/Heilbronn/myAfrica-eV/photos/slides/IMG_5853.JPG</url>
+                <title>Meeting - Kooperation Kamerun - Deutschland</title>
+                <filesize>3356622</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

@@ -1,0 +1,451 @@
+/*  page style for menu
+* reviewed on 29.01.2010 by Guy Bami */
+  
+
+.megaMenuHolder
+{
+    border-bottom: 1px solid #D9DEE4;
+    padding: 4px;
+    background: #EDED11;
+}
+
+.megaMenuHolder .navMenu
+{
+    background: #EDED00;
+    border: 2px solid red;
+}
+
+.mainMegaMenu {
+    float: left;
+    background: #EDED11;
+    border-bottom: 1px solid #D9DEE4;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    width: 100%;
+    position: relative;
+    
+}
+
+@media (min-width: 480px) {
+    .mainMegaMenu {
+        position: static;
+    }
+}
+
+.top_nav .navbar-center {
+    text-align: center;
+    width: 100%;
+    border: 0px solid red;
+    height1: 44px;
+    border-bottom:  0;
+}
+
+.top_nav .innerMenu {
+  display: inline-block;
+  height: 100%;
+  margin: 0px auto;
+  text-align:center; 
+  border: 0px solid green;
+  width: 80%;
+}
+
+ 
+.top_nav .innerMenu .menuDiv1 
+{
+    text-align:center; 
+    height1:48px;  /* li height*/
+    display: inline-table;
+    border: 0px solid red;
+    position: relative;
+    border-bottom: 0px solid #221;
+    background-color: #333;
+    vertical-align: middle;
+}
+
+.menuDiv1 ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow1: hidden;
+    z-index:1000;
+}
+
+.menuDiv1 ul li {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+
+.menuDiv1 ul li:last-child {
+    float: left;
+    border-right: none;
+}
+
+.menuDiv1 ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menuDiv1 ul li a:hover {
+    background-color: Highlight;  
+}
+
+.menuDiv1 ul li .dropdown:hover .dropbtn{
+    background-color: #111;
+}
+
+.menuDiv1 ul li .dropbtn {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menuDiv1 ul li.dropdown
+{
+    display: inline-block;
+}
+
+
+div.dropdown-content,
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow_: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1000;
+    border: 1px saddlebrown;
+    left: 0px;
+    top:48px;
+}
+
+.menuDiv1 ul .dropdown-content a, 
+.menuDiv1 ul li .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.menuDiv1 ul .dropdown-content a:hover,
+.menuDiv1 ul li .dropdown-content a:hover{
+    background-color: #f1f1f1;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+ 
+ 
+ 
+
+
+
+
+
+/*end...................*/
+ 
+ 
+
+.top_nav .innerMenu .menuDiv ul 
+{
+    list-style:none;
+    display:inline;
+}
+
+.top_nav .innerMenu .menuDiv a			
+{
+    color:#fffff0;
+    text-decoration:none;
+     
+}
+
+.top_nav .innerMenu .menuDiv a:hover
+{
+    color:#fffff0;
+    border-bottom: 1px solid #9EB1C1;
+    text-decoration:none;
+}
+
+.top_nav .innerMenu .clear
+{
+    clear:both
+}
+
+ 
+
+
+/* commom style for all browsers */
+
+.top_nav .innerMenu .menuDiv ul 
+{
+    padding:0; 
+    margin:0; 
+    list-style-type: none;
+    /*put all item on one line */
+    display:inline;
+}
+
+
+.top_nav .innerMenu .menuDiv ul li ul li
+{
+    border-bottom:1px solid #9EB1C1;
+}
+
+.menuDiv ul li 
+{
+    float1:left; 
+    position1:relative;
+    padding1: 0 25px 0 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:left;
+    border-bottom:1px solid #9EB1C1;
+}
+
+.menuDiv ul li.lastItem
+, .menuDiv ul li ul li.lastItem
+{
+    border-bottom:0px solid #9EB1C1;
+}
+
+.menuDiv ul li.firstItem
+, .menuDiv ul li ul li.firstItem
+{
+    border-top:0px solid #9EB1C1;
+}
+
+
+
+.menuDiv ul li.menuItem
+{
+    border-left:0px solid #9EB1C1;
+    border-right:1px solid #9EB1C1;
+    border-bottom:0px solid #9EB1C1;
+    border-top: 0px;
+}
+
+.menuDiv ul li.lastMenuItem
+{
+    border-left:0px solid #9EB1C1;
+    border-right:0px solid #9EB1C1;
+    border-bottom:0px solid #9EB1C1;
+    border-top: 0px;
+}
+
+.menuDiv ul li.firstMenuItem
+{
+    border-left:0px solid #9EB1C1;
+    border-right:1px solid #9EB1C1;
+    border-bottom:0px solid #9EB1C1;
+    border-top: 0px;
+} 
+
+ 
+.menuDiv ul li.empty 
+{
+    width:auto;
+    border-right:0px solid #9EB1C1;
+}
+
+
+.menuDiv ul li.subsubl 
+{
+    background-image: url("../Images/subMenu.gif");
+    background-repeat: no-repeat;
+    background-position: right center;
+    margin-right:3px;
+}
+
+.menuDiv ul li a
+, .menuDiv ul li a:visited 
+{
+    display:block; 
+    text-decoration:none; 
+    width:auto; 
+    height:40px; 
+    color:#B9BBC1; 
+    padding-left:25px; 
+    line-height:40px;
+    font-size: 100%;
+
+}
+
+
+
+.menuDiv ul li ul 
+{
+    visibility:hidden; 
+    position:absolute; 
+    top:0; 
+    left:0; 
+    height:0; 
+    overflow:hidden;
+}
+
+
+
+/* fist line style for IE7 and non-IE browsers and the second line for IE5.5 and IE6 */
+.menuDiv ul li:hover a,
+.menuDiv ul li a:hover 
+{
+    color:#fffff0; /*to check for top menu*/
+    text-decoration:none; 
+    border:0;
+}
+
+.menuDiv ul li:hover ul,
+.menuDiv ul li a:hover ul
+{
+    visibility:visible; 
+    width:255px; 
+    height:auto; 
+    position:absolute;
+    top:40px; 
+    left:-1px; 
+    background: #8EA3B6; 
+    border-bottom:1px solid #9EB1C1;
+    border-left:1px solid #9EB1C1;
+    border-right:1px solid #9EB1C1;
+    border-top:1px solid #9EB1C1;
+    overflow:visible;
+    z-index:99999;
+}
+
+
+.menuDiv ul li:hover ul li a,
+.menuDiv ul li a:hover ul li a 
+{
+    text-decoration:none; 
+    color:#fffff0; 
+    height:auto; 
+    line-height:1.5em; 
+    padding: 5px 10px 5px 25px; 
+    width:195px;
+}
+
+
+.menuDiv ul li:hover  
+{
+    background-color: #8EA3B0;
+}
+
+
+.menuDiv ul li:hover ul li ul,
+.menuDiv ul li a:hover ul li a ul 
+{
+    visibility:hidden; 
+    position:absolute; 
+    top:0; 
+    left:0; 
+    height:0; 
+    overflow:hidden;
+}
+
+
+.menuDiv ul li:hover ul li a:hover,
+.menuDiv ul li a:hover ul li a:hover 
+{
+    color:#fffff0; 
+    text-decoration:none;
+
+}
+
+
+.menuDiv ul li:hover ul li:hover ul,
+.menuDiv ul li a:hover ul li a:hover ul 
+{
+    visibility:visible; 
+    position:absolute; 
+    top:-1px; 
+    color:#fffff0; 
+    left:255px; 
+    height:auto; 
+    border:1px solid #9EB1C1;
+    width:100px;
+
+}
+
+.menuDiv ul li:hover ul li:hover ul.largerSubMenu,
+.menuDiv ul li a:hover ul li a:hover ul.largerSubMenu
+{
+    visibility:visible; 
+    position:absolute; 
+    top:-1px; 
+    color:#fffff0; 
+    left:255px; 
+    height:auto; 
+    border:1px solid #9EB1C1;
+    width:190px;
+
+}
+
+
+.menuDiv ul li:hover ul li:hover ul.left,
+.menuDiv ul li a:hover ul li a:hover ul.left 
+{
+    left:-166px;
+}
+
+
+
+
+.menuDiv ul li:hover ul li:hover ul li a,
+.menuDiv ul li a:hover ul li a:hover ul li a 
+{
+    display:block; 
+    color:#fffff0; 
+    height:auto; 
+    line-height:1.5em; 
+    padding:5px 10px 4px 15px; 
+
+}
+
+
+
+.menuDiv ul li:hover ul li:hover ul li:hover a,
+.menuDiv ul li a:hover ul li a:hover ul li a:hover 
+{
+    color:#fffff0; 
+    text-decoration:none;
+}
+
+.menuDiv ul li.empty a
+{
+    margin: 0 100px 0 0px;
+    color:#eee;
+}
+
+.menuDiv ul li.empty a:hover
+{
+    color:#eee;
+    cursor:default;
+}
+
+a.menuLink
+{
+    color:#000000;
+}
+
+a.menuLink:hover
+{
+    color:#000000;
+    text-decoration:none;
+}
+
+.menuDiv ul li .currentActiveMenu span,
+.menuDiv ul li a .currentActiveMenu span,
+.menuDiv ul li .activeMenuItem span,
+.menuDiv ul li a .activeMenuItem span,
+a.activeMenuItem span,
+a.currentActiveMenu span
+{
+    color:#FFFFFF;
+
+}

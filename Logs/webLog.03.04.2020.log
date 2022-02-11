@@ -1,0 +1,219 @@
+[03.04.2020 05:48:20]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 05:48:28]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: updateItem, 
+Post data: {"customerId":"8","formValues":["{\"newFieldValue\":\"ABA\",\"fieldName\":\"name\",\"entityKeyId\":\"8\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 05:48:35]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 05:51:58]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 05:52:07]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: updateItem, 
+Post data: {"customerId":"1","formValues":["{\"newFieldValue\":\"ASOAO\",\"fieldName\":\"name\",\"entityKeyId\":\"1\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 05:52:15]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 05:53:11]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: updateItem, 
+Post data: {"customerId":"7","formValues":[{"newFieldValue":"TEST-inline","fieldName":"name","entityKeyId":"7"}],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 05:53:16]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: updateItem, 
+Post data: {"customerId":"7","formValues":[{"newFieldValue":"TEST-inline","fieldName":"name","entityKeyId":"7"}],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 05:53:26]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 05:57:35]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: deleteItem, 
+Post data: {"selectedIds":["2","1"],"userAction":"deleteItem"}
+
+[03.04.2020 05:58:00]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 05:58:26]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:26]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:27]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:27]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:28]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:28]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:28]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:28]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:29]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:29]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:29]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:29]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:30]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:30]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:33]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"name":"Customer-1323","lastName":"surname-1323","email":"test-custom@yahoo.fr","phoneNumber":"23232323","zipCode":"885544","city":"city-Douala","street":"street-custom"}]}
+
+[03.04.2020 05:58:41]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 05:59:17]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: deleteItem, 
+Post data: {"selectedIds":["9","10","11","12","13","14","15","16","17"],"userAction":"deleteItem"}
+
+[03.04.2020 05:59:42]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 06:01:25]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: insertNewItem, 
+Post data: {"formValues":["{\n\t\"name\": \"name-d128a92\",\n\t\"lastName\": \"lastName-c6326a5\",\n\t\"email\": \"email-2e37fe2\",\n\t\"phoneNumber\": \"phoneNumber-48d8b46\",\n\t\"zipCode\": \"zipCode-60f68a8\",\n\t\"city\": \"city-847083d\",\n\t\"street\": \"street-516368d\"\n}"],"userAction":"insertNewItem"}
+
+[03.04.2020 06:09:12]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 06:09:22]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: insertNewItem, 
+Post data: {"formValues":["{\n\t\"name\": \"name-d128a92\",\n\t\"lastName\": \"lastName-c6326a5\",\n\t\"email\": \"email-2e37fe2\",\n\t\"phoneNumber\": \"phoneNumber-48d8b46\",\n\t\"zipCode\": \"zipCode-60f68a8\",\n\t\"city\": \"city-847083d\",\n\t\"street\": \"street-516368d\"\n}"],"userAction":"insertNewItem"}
+
+[03.04.2020 09:29:33]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 09:29:49]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 09:40:53]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 09:42:00]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 09:42:49]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: insertNewItem, 
+Post data: {"formValues":["{\n\t\"name\": \"name-d128a92\",\n\t\"lastName\": \"lastName-c6326a5\",\n\t\"email\": \"email-2e37fe2\",\n\t\"phoneNumber\": \"phoneNumber-48d8b46\",\n\t\"zipCode\": \"1211\",\n\t\"city\": \"city-847083d\",\n\t\"street\": \"street-516368d\"\n}"],"userAction":"insertNewItem"}
+
+[03.04.2020 09:44:56]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 09:45:29]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: insertNewItem, 
+Post data: {"formValues":["{\n\t\"name\": \"name-d128a92\",\n\t\"lastName\": \"lastName-c6326a5\",\n\t\"email\": \"email-2e37fe2\",\n\t\"phoneNumber\": \"phoneNumber-48d8b46\",\n\t\"zipCode\": \"zipCode-60f68a8\",\n\t\"city\": \"city-847083d\",\n\t\"street\": \"street-516368d\"\n}"],"userAction":"insertNewItem"}
+
+[03.04.2020 09:47:16]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 09:48:25]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 09:48:38]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: insertNewItem, 
+Post data: {"formValues":["{\n\t\"name\": \"name-fff\",\n\t\"lastName\": \"lastName-c6326a5\",\n\t\"email\": \"email-2e37fe2\",\n\t\"phoneNumber\": \"phoneNumber-48d8b46\",\n\t\"zipCode\": \"3433\",\n\t\"city\": \"city-847083d\",\n\t\"street\": \"street-516368d\"\n}"],"userAction":"insertNewItem"}
+
+[03.04.2020 09:49:10]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: updateItem, 
+Post data: {"customerId":"25","formValues":["{\"newFieldValue\":\"KOTTO\",\"fieldName\":\"lastName\",\"entityKeyId\":\"25\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 09:49:21]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: updateItem, 
+Post data: {"customerId":"25","formValues":["{\"newFieldValue\":\"ebay@yahoo.fr\",\"fieldName\":\"email\",\"entityKeyId\":\"25\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 09:49:27]: requestPath: /WorkerTimeLogWeb/Controllers/CustomerController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 10:00:52]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 10:02:06]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 10:03:47]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"auftragsNummer":"auftragNummer-1323","kundenNummer":"kundenNummer-1323","bezeichnung":"bezeichnung-1323","auftragAbgeschlossen":"ja","datum":"2020-03-12 14:33:11"}]}
+
+[03.04.2020 10:03:49]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"auftragsNummer":"auftragNummer-1323","kundenNummer":"kundenNummer-1323","bezeichnung":"bezeichnung-1323","auftragAbgeschlossen":"ja","datum":"2020-03-12 14:33:11"}]}
+
+[03.04.2020 10:16:45]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"userAction":"updateItem","auftragId":"1","formValues":[{"auftragsNummer":"auftragNummer-1323-new","kundenNummer":"kundenNummer-new","bezeichnung":"bezeichnung-new","auftragAbgeschlossen":"ja","datum":"2020-03-12 14:33:11"}]}
+
+[03.04.2020 10:40:55]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"userAction":"updateItem","auftragId":"1","formValues":[{"auftragsNummer":"auftragNummer-1323-new","kundenNummer":"kundenNummer-new","bezeichnung":"bezeichnung-new","auftragAbgeschlossen":"ja","datum":"2020-03-12 14:33:11"}]}
+
+[03.04.2020 10:41:49]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"userAction":"updateItem","auftragId":"1","formValues":[{"auftragsNummer":"auftragNummer-1323-new","kundenNummer":"kundenNummer-new","bezeichnung":"bezeichnung-new","auftragAbgeschlossen":"ja","datum":"2020-03-12 14:33:11"}]}
+
+[03.04.2020 14:06:12]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 14:07:33]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 14:08:00]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"auftragsNummer":"auftragNummer-1323","kundenNummer":"kundenNummer-1323","bezeichnung":"bezeichnung-1323","auftragAbgeschlossen":"ja","datum":"2020-03-12 14:33:11"}]}
+
+[03.04.2020 14:08:01]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: addNewItem, 
+Post data: {"userAction":"addNewItem","formValues":[{"auftragsNummer":"auftragNummer-1323","kundenNummer":"kundenNummer-1323","bezeichnung":"bezeichnung-1323","auftragAbgeschlossen":"ja","datum":"2020-03-12 14:33:11"}]}
+
+[03.04.2020 14:18:50]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"userAction":"updateItem","auftragId":"1","formValues":[{"auftragsNummer":"auftragNummer-1323-new","kundenNummer":"kundenNummer-new","bezeichnung":"bezeichnung-new","auftragAbgeschlossen":"ja","datum":"2020-03-12 14:33:11"}]}
+
+[03.04.2020 14:19:45]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 15:57:51]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 16:23:42]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 16:25:04]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: insertNewItem, 
+Post data: {"formValues":["{\n\t\"auftragsNummer\": \"auftragsNummer-0a05acf\",\n\t\"kundenNummer\": \"kundenNummer-6844f76\",\n\t\"bezeichnung\": \"bezeichnung-cd8389e\",\n\t\"auftragAbgeschlossen\": \"ja\"\n}"],"userAction":"insertNewItem"}
+
+[03.04.2020 16:25:16]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 16:26:00]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"auftragId":"3","formValues":["{\"newFieldValue\":\"ABBA\",\"fieldName\":\"auftragsNummer\",\"entityKeyId\":\"3\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 16:26:06]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 16:26:15]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"auftragId":"3","formValues":["{\"newFieldValue\":\"2222222\",\"fieldName\":\"kundenNummer\",\"entityKeyId\":\"3\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 16:26:23]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 16:26:31]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"auftragId":"3","formValues":["{\"newFieldValue\":\"test der App\",\"fieldName\":\"bezeichnung\",\"entityKeyId\":\"3\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 16:26:45]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 16:33:42]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 16:33:47]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: updateItem, 
+Post data: {"auftragId":"2","formValues":["{\"newFieldValue\":\"nein\",\"fieldName\":\"auftragAbgeschlossen\",\"entityKeyId\":\"2\"}"],"updateMode":"inlineUpdate","userAction":"updateItem"}
+
+[03.04.2020 16:33:54]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+
+[03.04.2020 17:11:50]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: deleteItem, 
+Post data: {"selectedIds":["4"],"userAction":"deleteItem"}
+
+[03.04.2020 17:11:58]: requestPath: /WorkerTimeLogWeb/Controllers/AuftragController.php, userAction: getAllItems, 
+Post data: {"userAction":"getAllItems"}
+

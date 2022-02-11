@@ -1,0 +1,26 @@
+[05.04.2020 16:54:51]: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'auftragsNummer' cannot be null
+
+[05.04.2020 16:57:01]: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'auftragsNummer' cannot be null
+
+[05.04.2020 16:57:38]: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'auftragsNummer' cannot be null
+
+[05.04.2020 16:57:57]: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'auftragsNummer' cannot be null
+
+[05.04.2020 16:58:28]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
+[05.04.2020 17:00:23]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
+[05.04.2020 17:00:51]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
+[05.04.2020 17:00:52]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
+[05.04.2020 17:00:52]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
+[05.04.2020 17:01:25]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
+[05.04.2020 17:05:10]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
+[05.04.2020 17:05:37]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
+[05.04.2020 17:05:49]: SQLSTATE[01000]: Warning: 1265 Data truncated for column '_auftragAbgeschlossen' at row 1
+
